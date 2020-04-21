@@ -4,6 +4,9 @@
   Prueba de servo - este codigo activara un servo tras otro
 
   Se utiliza I2C para comunicarse, se requieren 2 pines para interfaz.
+
+*********  VIDEO DEL EJEMPLO ACA ************ 
+  https://youtu.be/ZJojD_mnbDA
  ****************************************************/
 
 #include <Wire.h>
